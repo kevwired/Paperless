@@ -1,0 +1,24 @@
+<tr>
+<th width="40%">Address line 1:</th><td> <<ADD_ADD1&W&S""="">></td>
+</tr>
+<tr>
+<th>Address line 2:</th><td> <<ADD_ADD2&W>></td>
+</tr>
+<tr>
+<th>Address line 3:</th><td> <<ADD_ADD3&W>></td>
+</tr>
+<tr>
+<th>Address line 4:</th><td> <<ADD_ADD4&W>></td>
+</tr>
+<tr>
+<th>Address line 5:</th><td> <<ADD_ADD5&W>></td>
+</tr>
+<tr>
+<th>Postcode:</th><td> <<ADD_PCOD&U>></td>
+</tr>
+<tr>
+<th>Telephone:</th><td> <<ADD_TELN>></td>
+</tr>
+<tr>
+<th>Email:</th><td> <<ADD_EMAD>></td>
+</tr>
